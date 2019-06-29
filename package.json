@@ -10,7 +10,7 @@
   "author": "Andrew Van Slaars",
   "license": "MIT",
   "dependencies": {
-    "crocks": "^0.8.1",
+    "crocks": "^0.8.6",
     "ramda": "^0.25.0"
   }
 }
